@@ -1,8 +1,8 @@
 import { moduleForModel, test } from 'ember-qunit';
 
-moduleForModel('food-dropdown', 'Unit | Serializer | food dropdown', {
+moduleForModel('responselist', 'Unit | Serializer | responselist', {
   // Specify the other units that are required for this test.
-  needs: ['serializer:food-dropdown']
+  needs: ['serializer:responselist']
 });
 
 // Replace this with your real tests.

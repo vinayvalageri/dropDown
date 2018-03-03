@@ -1,6 +1,6 @@
 import { moduleForModel, test } from 'ember-qunit';
 
-moduleForModel('food-dropdown', 'Unit | Model | food dropdown', {
+moduleForModel('responselist', 'Unit | Model | responselist', {
   // Specify the other units that are required for this test.
   needs: []
 });
